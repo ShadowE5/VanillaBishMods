@@ -4,6 +4,8 @@ This is where all currently used/usable mods are stored. The Forge
 Launcher is the .jar file in the main directory. All mods in 
 'Server-Side' are required to join the game standardly, any in 
 'Client-Side' are optional.
+Optifine currently doesnt work but is here as a placeholder. The item graphics in inventories do not display correctly.
+
 
 To use the installer, just run it normally (double click, or run as java 
 SE executable) and install as a client. All mods should be put into the 
