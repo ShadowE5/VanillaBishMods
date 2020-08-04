@@ -4,8 +4,8 @@ This is where all currently used/usable mods are stored. The Forge
 Launcher is the .jar file in the main directory. All mods in 
 'Server-Side' are required to join the game standardly, any in 
 'Client-Side' are optional.
-Optifine is currently in its preview version (as MC 1.16.1 is new) and may have some graphic issues, if this is the case let me know and I can help.
-Some visual lag may also be fixed by using a 'higher' version of shader - for some reason my computer runs 'High' or 'Extreme' better than 'Medium'
+Optifine is required to use shaders (and even without shaders may be worth installing as it can improve perfromance), but resource packs can be used standardly.
+Some visual lag may be fixed by using a 'higher' version of shader - for some reason my computer runs 'High' or 'Extreme' better than 'Medium'.
 
 To use the installer, just run it normally (double click, or run as java 
 SE executable) and install as a client. All mods should be put into the 
